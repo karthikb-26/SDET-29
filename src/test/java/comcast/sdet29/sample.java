@@ -6,6 +6,8 @@ public class sample {
 	@Test
 	public void Demo() {
 		System.out.println("hi user1");
+		System.out.println("USER");
+		
 	}
 
 }
